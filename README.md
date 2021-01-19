@@ -1,7 +1,7 @@
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imjae)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjae&layout=compact&theme=dracula)](https://github.com/imjae)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imjae)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjae&layout=compact&theme=dracula)](https://github.com/imjae)  
 BOJ 등급 올리기
 
 
