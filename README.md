@@ -1,10 +1,4 @@
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imjae)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjae&layout=compact&theme=dracula)](https://github.com/imjae)  
-BOJ 등급 올리기
-
-
 ---
 ![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&labelColor=442211)
 ![Build Status](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&labelColor=442211)
@@ -26,3 +20,24 @@ BOJ 등급 올리기
 ![Build Status](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&labelColor=442211)
 ![Build Status](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&labelColor=442211)
 ---
+
+<details>
+<summary> BOJ Tear </summary>
+<div markdown="1">
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)
+</div>
+</derails>
+
+<details>
+<summary> GitHub Stats </summary>
+<div markdown="1">
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imjae)](https://github.com/anuraghazra/github-readme-stats)  
+</div>
+</derails>
+
+<details>
+<summary> Most Language </summary>
+<div markdown="1">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjae&layout=compact&theme=dracula)](https://github.com/imjae)  
+</div>
+</derails>
