@@ -23,10 +23,8 @@
 
 <details>
   <summary> BOJ Tear </summary>
-  <div markdown="1">
-    
+  <div markdown="1" width="300" height "200>
     [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)
-  
   </div>
 </details>
 
@@ -34,14 +32,14 @@
   
 <details>
   <summary> GitHub Stats </summary>
-  <div markdown="1">
+  <div markdown="2" width="300" height "200>
     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imjae)](https://github.com/anuraghazra/github-readme-stats)  
   </div>
 </details>
 
 <details>
   <summary> Most Language </summary>
-  <div markdown="1">
+  <div markdown="3" width="300" height "200>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjae&layout=compact&theme=dracula)](https://github.com/imjae)  
   </div>
 </details>
