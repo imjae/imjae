@@ -25,9 +25,7 @@
 ![Build Status](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&labelColor=442211) ![Build Status](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&labelColor=442211) ![Build Status](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&labelColor=442211)
-
 <br/>
-
 ---
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=imjae&countColorcountColor&countColor=%237B1E7B"/>
 
