@@ -24,7 +24,9 @@
 <details>
   <summary> BOJ Tear </summary>
   <div markdown="1">
+    
     [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)
+  
   </div>
 </details>
 
