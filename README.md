@@ -10,25 +10,24 @@
 - ⚡ Fun fact: I love to play bowling 🎳 and eating tasty food with drinking🍻
 
 ---
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
----
-
 ### Languages and Tools 🛠 
 ![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&labelColor=442211) ![Build Status](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&labelColor=442211) ![Build Status](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&labelColor=442211) ![Build Status](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&labelColor=442211) ![Build Status](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&labelColor=442211) ![Build Status](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&labelColor=442211) ![Build Status](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&labelColor=442211) ![Build Status](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=Apollo-GraphQL&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&labelColor=442211) ![Build Status](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&labelColor=442211) ![Build Status](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&labelColor=442211)
+<div align="right">
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)
+  </div>
 <br/>
 ---
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=imjae&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+---
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=imjae&countColorcountColor&countColor=%237B1E7B"/>
 ### Contact with me 📝
 
 <img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />
