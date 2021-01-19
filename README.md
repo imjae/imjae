@@ -1,6 +1,6 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/{imjae})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{imjae})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/{imjae})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/imjae)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/imjae)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/imjae)
 
 ![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&labelColor=442211)
 ![Build Status](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&labelColor=442211)
