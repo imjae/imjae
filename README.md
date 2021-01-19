@@ -15,10 +15,7 @@
 ![Build Status](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&labelColor=442211) ![Build Status](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&labelColor=442211) ![Build Status](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=Apollo-GraphQL&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&labelColor=442211) ![Build Status](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&labelColor=442211)  
-![Build Status](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&labelColor=442211) ![Build Status](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&labelColor=442211)
-<div align="right">
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)
-  </div>
+![Build Status](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&labelColor=442211) ![Build Status](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&labelColor=442211) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae)](https://solved.ac/imjae)
 <br/>
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
