@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+<img align="center" width="100%" alt="GIF" src="https://github.com/imajae/imajae/dino.gif" />
 
 # Hi there, I'm Imjae! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
