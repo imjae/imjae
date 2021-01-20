@@ -29,15 +29,3 @@ lang - ![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 ---
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=imjae&countColorcountColor&countColor=%237B1E7B"/>
-### Contact with me 📝
-
-<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />
-<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>
-<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
-<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />
-
-<br />
-
----
-
-### ⭐️ From [ Imjae ](https://github.com/imjae) ### 
