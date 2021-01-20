@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Learn more technologies - Nodejs_denojs_scss(sass)😤
+- 💪🏼 Future Goals: Learn more technologies - Nodejs_denojs_scss(sass)😤
 - ⚡ Fun fact: I love to play bowling 🎳 and eating tasty food with drinking🍻
 
 ---
