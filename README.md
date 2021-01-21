@@ -20,8 +20,6 @@
 ![Build Status](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&labelColor=442211) ![Build Status](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&labelColor=442211)  
 ![Build Status](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&labelColor=442211)
 
-<br/>
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
