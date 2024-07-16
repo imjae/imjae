@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
+
 <img align="center" width="100%" alt="GIF" src="https://github.com/imjae/imjae/blob/main/dino.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
