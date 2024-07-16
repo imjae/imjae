@@ -1,5 +1,9 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/imjae?pet-id=1" width="1000" height="500"/>
+<img
+  src="https://render.gitanimals.org/farms/imjae"
+  width="1000"
+  height="500"
+/>
 </a>
 
 <img align="center" width="100%" alt="GIF" src="https://github.com/imjae/imjae/blob/main/dino.gif" />
