@@ -2,10 +2,11 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=imjae&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/imjae?pet-id=796253386439225663"
-    width="1920"
-    height="1080"
+    width="1000"
+    height="600"
   />
 </a>
+  
   
 
 <img align="center" width="100%" alt="GIF" src="https://github.com/imjae/imjae/blob/main/dino.gif" />
