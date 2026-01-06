@@ -1,6 +1,5 @@
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=imjae&utm_content=line">
-  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/927281bb-d672-4fb5-9daa-8d59fe8c9f96" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{imjae}"/>
 </a>
   
 
